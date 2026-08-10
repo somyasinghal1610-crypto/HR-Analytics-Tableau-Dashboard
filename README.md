@@ -75,3 +75,8 @@ The dashboard includes:
 - `HR data.xlsx` — Source HR dataset
 - `README.md` — Project documentation
 
+## 👩‍💻 Author
+
+**Somya Singhal**  
+Data Analyst | Tableau | Excel | SQL | Power BI
+
